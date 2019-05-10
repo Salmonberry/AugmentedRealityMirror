@@ -57,10 +57,10 @@ Intel® RealSense™ Depth 400系列
 
   - 官网首页下载NuitrackSDK包
   - 解压压缩包，路径：NuitrackSDK>Unity3D>**NuitrackSDK.unitypackage**，双击**NuitrackSDK.unitypackage**导入包到工程中。
-  - Unity项目中，路径：Assets>Tutorials>FaceTracker>FinalAssets中，双击FaceTracking打开场景，点击Run运行，即可查看效果
+  - Unity项目中，路径：**Assets>Tutorials>FaceTracker>FinalAssets**中，双击**FaceTracking**场景文件打开场景，点击**Run**运行，即可查看效果
 
 ### FaceTracking的各模块逻辑调用关系
 
 ![](https://raw.githubusercontent.com/Salmonberry/ImgResource/master/Animation/Nuitrack_First%20Project.png)
 
-具体代码块功能解析，请按照模块逻辑调用关系顺序，在FaceTrack.unitypackage中查看RGB>Scripts中的代码注释。
+具体代码块功能解析，请按照模块逻辑调用关系顺序，在**src>FaceTrack.unitypackage**中查看**RGB>Scripts**中的代码注释。
